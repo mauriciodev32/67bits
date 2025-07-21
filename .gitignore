@@ -1,0 +1,49 @@
+# Unity padrão
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Cache do Unity
+*.log
+*.ilk
+*.tmp
+*.bak
+*.swp
+*.db
+*.db-journal
+
+# Arquivos grandes e binários gerados pelo IL2CPP
+*.so
+*.a
+*.dll
+*.exe
+*.lib
+*.aar
+
+# Unity Visual Studio / Rider / JetBrains
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.vcxproj
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Git LFS
+.gitattributes
