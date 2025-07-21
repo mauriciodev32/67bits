@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GamePlay\\prova-67\\GymBeastClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|D:\\GamePlay\\prova-67\\GymBeastClone\\assets\\scripts\\enemycollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|d:\\gameplay\\prova-67\\gymbeastclone\\assets\\scripts\\shopzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|d:\\gameplay\\prova-67\\gymbeastclone\\assets\\scripts\\deliveryzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliveryzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|D:\\GamePlay\\prova-67\\GymBeastClone\\assets\\scripts\\playerdinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|D:\\GamePlay\\prova-67\\GymBeastClone\\assets\\scripts\\enemystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|D:\\GamePlay\\prova-67\\GymBeastClone\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|D:\\GamePlay\\prova-67\\GymBeastClone\\assets\\scripts\\autopunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\autopunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|D:\\GamePlay\\prova-67\\GymBeastClone\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED1F72-6754-FF9E-520A-C418B0C50B22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopZone.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\ShopZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopZone.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\ShopZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopZone.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:45:40.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerDinheiro.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\PlayerDinheiro.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDinheiro.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\PlayerDinheiro.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerDinheiro.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:09:57.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeliveryZone.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\DeliveryZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryZone.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\DeliveryZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryZone.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:05:11.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyCollector.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\EnemyCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyCollector.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\EnemyCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyCollector.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:57:28.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyStack.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\EnemyStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyStack.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\EnemyStack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyStack.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:20:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoPunch.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\AutoPunch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoPunch.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\AutoPunch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoPunch.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:59:27.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:41:05.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\GamePlay\\prova-67\\GymBeastClone\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:13:28.773Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
